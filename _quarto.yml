@@ -8,7 +8,7 @@ csl: assets/bib/chicago-author-date.csl
 
 # Metadata stuff
 pagetitle: "{{< meta title >}} | Patricia Melo"
-author-meta: "Patricia Melo"
+author-meta: "Patricia B"
 
 website:
   cookie-consent:
