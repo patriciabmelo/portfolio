@@ -1,0 +1,73 @@
+---
+title: "Patrícia Melo"
+pagetitle: "Patrícia Melo"
+subtitle: "Business Intelligence | Agribusiness | Especialista Power BI | Quant Risk Management"
+image: assets/img/hcostax/perfil.jpg
+image-alt: "Me, Me, Me"
+
+comments: false
+  
+twitter-card:
+    title: Henrique Costa
+    description: |
+      Quant Risk Management (Finance).
+    image: assets/img/hcostax/perfil.jpg
+
+about:
+  template: solana
+  image-width: 28em
+  id: hero-heading
+  links:
+    # - icon: mastodon
+    #   aria-label: Mastodon
+    #   href: https://fosstodon.org/@hcostax
+    - icon: linkedin
+      aria-label: LinkedIn
+      href: https://linkedin.com/in/patrícia-melo-46a928b0
+    - icon: twitter
+      aria-label: Twitter
+      href: https://twitter.com/
+    - icon: instagram
+      aria-label: Instagram
+      href: https://www.instagram.com/
+    - icon: github
+      aria-label: GitHub
+      href: https://github.com/patriciabmelo
+    # - text: "{{< iconify fa6-brands google-scholar >}}" 
+    #   aria-label: Google Scholar
+    #   href: https://scholar.google.com/citations?user=
+
+feed: true
+page-layout: full
+
+execute: 
+  freeze: false
+  echo: false
+  warning: false
+
+header-includes: >
+  <link rel="stylesheet" href="assets/index.css">
+resources:
+  - assets/index.css
+
+---
+
+<br><br><br><br>
+
+
+::: {#hero-heading}
+
+Hi there! I'm a quant risk management professional + Master in Applied Economics, and passionate about empirical validation analysis. 
+
+I have “revealed preference” for matcha 🍵 and coffee ☕, pizza 🍕, microeconomics, econometrics, microeconometrics and R. 
+
+A concept that I always apply is: The whole intention of empirical economics is to force theory down to Earth. - George Akerlof.
+
+
+My motto is: **Be better than average**.
+
+
+At my house, my [wife](https://www.instagram.com/kedmathaynara/) and I play with our children Arya, Frodo and Lunna (Three beautiful kittens). We love and enjoy brunch on Sundays and are always willing to try great food.
+
+:::
+
